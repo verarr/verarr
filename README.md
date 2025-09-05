@@ -1,3 +1,13 @@
+> [!IMPORTANT]
+> I've moved most of my stuff elsewhere. The reason for this is because I'm unhappy with the direction GitHub is taking, especially in terms of AI usage.
+>
+> My profiles on other sites:
+> ### [codeberg.org/verarr](https://codeberg.org/verarr) <- stuff I (may) collaborate on
+> ### [forge.fvnki.town/verarr](https://forge.fvnki.town/verarr) <- more personal stuff
+
+
+Original bio:
+
 ### Hi there, I'm verarr 👋 ###
 
 - 🧒 I'm a child.
