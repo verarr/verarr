@@ -13,11 +13,7 @@ Original bio:
 - 🧒 I'm a child.
 - 🔭 I'm currently working on several projects and I'm still learning stuff.
 - 👯 I don't think I'm ready to collaborate to anything **yet**... 
-- 😄 Pronouns: **she/her** or any (I don't really care)
-- 📫 If - for whatever reason - you'd like to message me, you can send an email to my [listed email address](mailto:verarr@fvnki.town) or DM `@verarr` on Discord (if you can) (please don't, i'll get a panic attack).
-<!-- I thought I'd drop the 'é'
-- 💬 My username could look like a real name to some people, but it's actually all made up. You can ignore the accented *e* and call me *Verarr* if you can't type *é* easily.
--->
+- 📫 If - for whatever reason - you'd like to message me, you can send an email to my [listed email address](mailto:verarr@fvnki.town) or DM `@verarr` on Discord (if you can).
 
 <!--
 **Verarr/Verarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
